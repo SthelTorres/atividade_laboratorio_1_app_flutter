@@ -1,6 +1,6 @@
 # 📱 Atividade Laboratório 1 - Flutter  
 
-Este repositório contém a implementação de uma atividade prática da disciplina **Laboratório de Sistemas Distribuídos**, utilizando **Flutter**.  
+Este repositório contém a implementação de uma atividade prática da disciplina **Laboratório de Desenvolvimento de Aplicações Móveis e Distribuídas**, utilizando **Flutter**.  
 
 ## 🚀 Funcionalidades
 - Criação de uma **lista de compras** interativa  
